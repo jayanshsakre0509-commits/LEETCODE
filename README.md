@@ -1,1 +1,4 @@
-# LEETCODE
+# Hi there! 👋
+
+Check out my LeetCode profile:
+[![Leetcode Stats](https://jacoblin.cool)](https://leetcode.com)
